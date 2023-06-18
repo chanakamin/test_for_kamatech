@@ -18,14 +18,14 @@ const connectionParams = {
     useUnifiedTopology: true
 }
 
-mongoose.connect(process.env.DB_CONNECTION, connectionParams)
-    .then(() => {
-        logger.info('connect to mongoDB');
+// mongoose.connect(process.env.DB_CONNECTION, connectionParams)
+//     .then(() => {
+//         logger.info('connect to mongoDB');
         
-   })
-    .catch((error) => {
-        logger.error(error.message);
-    })
+//    })
+//     .catch((error) => {
+//         logger.error(error.message);
+//     })
 
 
 app.use(bodyParser.json())

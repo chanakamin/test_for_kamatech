@@ -1,0 +1,14 @@
+{
+  "type": "service_account",
+  "project_id": "rising-ocean-389912",
+  "private_key_id": "5d5f56f330519561bf4d1aac8ad73cb15692216f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDEF/1wiMjm+qJE\neg6f1Nn4Njhq9BYOgDFf1A83uDlIJeyrP1O0PbgAuxWE57xZBqyGckmAP3WxYJIR\ndFAxs8va2mnUoHAZkUCdQ8VNj4Z/ZUON0TeaEU2fMVkrHLF2zAVC/D7m6X82VVWw\nYQQhSgyzLI/x4VVB/KbMCQmByUSrgP2yj2ZISi073VQoCnUlATNG2GvvJvcDLiq7\nPNztX4wu/m78y0IUPGN81AmOkD2AdJjbxBrlF4VDhOrOYksYpqTFUreS6ShCo7xx\nMPKFEXobi03/e38vTimhNo9FsGxxsMGcRCAg38JRlSjOuagiQWz3OwYwYdqSWle1\nsRl4/aMrAgMBAAECggEACe2FAUuLkFYkHP9o+iKWnoBwPsn4y+clmMptss565/Iz\nlz/vhvKQ/Eh8gGwTFxbFaVEj84BC/yX6fzO6U6ncqkngjclJo6G8+blSpeicUJrZ\n3rY28G/r1CF1eD9NpMwTgB6xOJOdwyxy2CkxQlYzambZKs/TtzGJaE8U0iNUfLJG\nW+kFRHzQtmSPH0gyOxLHhZS+NJbnGVxVqDnTo1fMJE2etnGegisoqc1hBIiAgi8w\n+uk3GcLB6uaEDlAwJDAyP3gKfTRW4T0/DRpO46nX+h6sSyfF/TYBedPtWx7rQEWA\n4xPk8K+cPGmjKnco+B0iQTNLHNpBhFow7wFyPJ6DMQKBgQD2UYaOkWjIn3OLPn4x\nmA8AJ5/Y+EIyQW52rFg+HZiXYOrP3mE74Ib5desrr3gVkBxuFJVrEeVLhoKA1cIt\ng6N8VmrT8BcOVk9L02oF/DxQggvYU/QexPXIkZdirvW0EEdyVgU+KzNyZaa4cp8I\nSDwyTYo8Oes96fKfm/ozxnLdLQKBgQDLzRlqz0FH+HAmILBo8yzyITTjGkyko9s/\nDE9CSjA8Ph+70MVNWu3TzzNVxuefUlqzVZhjXccBSY1fkYcVEOWmrzsQwLFhjjDt\nHg7VPGSLR9Fdw+eT4QKHpry11/sxbAAiok7t83hkmOwoIoVzT+e6QFTzTnf441/A\nCD+FGCyotwKBgDXz54hE23HOU021s4iDaQ28oCuzPTSq1lpSJ8X7T5gg124OpLer\n14S+ynM4LRJ0DXYjNhNMyS/A18cGi1DS27V5bE7d8P7n8tiGB1wmQsPTqGqLARbY\nR4nWMhWggxsc0bl+lAlpBwzQrTMLkEANKnpON7A3c4qNOuKxFJ3QowpFAoGAPoYb\nyCLxei0D6w6YUHpaTaZWXV4SKWiDuOID5uhvx+ufPLWd8k91K0gkDarKIJzZaq9V\n4xZAGWsBTlKNSK84ZVzZGBil0rIW3IgeMNkoV3qfBs81Wq7rYcaLmpY6YD0sBXQa\nFvJc+y/XM7DzlB7tjrxx03s9X0QSeg2Nvz1dZh0CgYANkdISAZQyzeeDngRskeI4\nia7ohXe3QU1HcLirPHkz4WabU8k4NSSZ7azUn6EuN1PWfi6k+c3w1z+3BC2ZhctN\nZhWL6V2R4X4PUciIUyVWUMJ0/6QVpIRC/fhWZXR0uOqXJZDKQYiwEU1jSiaNYl3u\nCVRDWjSIf/KeXQFlj1X1tQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "website@rising-ocean-389912.iam.gserviceaccount.com",
+  "client_id": "104020384500713784540",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/website%40rising-ocean-389912.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com",
+  "custom_ca_certs_file": "C:\\ProgramData\\NetFree\\CA\\netfree-ca-bundle-curl.crt"
+}
