@@ -1,10 +1,12 @@
 const { PubSub } = require('@google-cloud/pubsub');
+const {CertificateManagerClient} =
+  require('@google-cloud/certificate-manager').v1;
 const path = require('path');
 require('dotenv').config();
 
 const keyFilePath = process.env.GOOGLE_APPLICATION_CREDENTIALS = `rising-ocean-389912-5d5f56f33051.json`; // process.env.GOOGLE_APPLICATION_CREDENTIALS;
 const pubsub = new PubSub({
-  projectId: 'rising-ocean-389912',
+  projectId: 'my-project-beckend2',
 //  auth: {
 //   keyFilename: keyFilePath,
 //  }
